@@ -1,0 +1,17 @@
+{
+  "log": ["*"],
+  "adminInterface":":4985",
+  "interface": ":4984",
+  "databases": {
+    "active": {
+      "server": "http://couchbase-server:8091",
+      "bucket": "active",
+      "username": "Administrator",
+      "password": "password",
+      "num_index_replicas": 0,
+      "enable_shared_bucket_access": true,
+      "import_docs": true,
+      "sync": "{{ sync_function_active }}"
+    }
+  }
+}
