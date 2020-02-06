@@ -1,4 +1,4 @@
-# couchbase-docker-example
+# 👨‍🏫 couchbase-docker-example
 An example of running Couchbase Server and Couchbase Sync Gateway in Docker using docker-compose. This repository is to
 be used for explanatory use only. Credentials for the Couchbase Server are being generated and used for configuration,
 server configuration is done with bare-minimum values. This example will run with minimal resources and logging in would
