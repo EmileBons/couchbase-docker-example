@@ -4,7 +4,7 @@
   "devDependencies": {
     "@types/mocha": "^7.0.1",
     "generate-password": "^1.4.2",
-    "mocha": "^6.2.0",
+    "mocha": "^6.2.3",
     "request": "^2.88.0",
     "unique-names-generator": "^3.0.0"
   },
